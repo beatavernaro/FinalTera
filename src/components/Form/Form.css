@@ -166,3 +166,7 @@ ul{
 .box-form-style{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
+.box-form-divider{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 4px 4px 0px;
+}
