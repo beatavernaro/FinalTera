@@ -5,3 +5,5 @@ export { default as Login } from './Login';
 export { default as CadHabilidade } from './CadHabilidade';
 export { default as InfoContato } from './InfoContato';
 export { default as Perfil } from './Perfil';
+
+

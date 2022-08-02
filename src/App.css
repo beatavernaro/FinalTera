@@ -1,3 +1,14 @@
+:root {
+  --main-red-color: #932D3C;
+  --main-yellow-color: #E89345;
+  --light-color: #FEF8F8;
+  --roboto: 'Roboto', sans-serif;
+  --cinza: #555555; 
+  --rosa: #EE9591;
+  --cinza-claro: #F6F6F6;
+  --cinza-medio: #888888;
+}
+
 .App {
   text-align: center;
 }
@@ -38,6 +49,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+#border-vaga{
+  border-color: var(--rosa)!important;
+}
+
+#text-match{
+  color: var(--main-red-color)!important;
+  
 }
 
 .App-link {

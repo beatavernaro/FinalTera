@@ -15,6 +15,7 @@ export function RouterControl() {
                 <Route path="/habilidade" element={<CadHabilidade />} />
                 <Route path="/perfil" element={<Perfil />} />
                 <Route path="/containfo" element={<InfoContato />} />
+                
             </Routes>
             <Footer />
         </React.Fragment>
